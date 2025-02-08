@@ -23,27 +23,27 @@ This project implements CRUD operations using Object-Oriented Programming (OOP) 
 ### Main Menu
 - The main menu where users can choose to create, view, update, or delete teaching records.
 
-  <img src="https://github.com/user-attachments/assets/617ac3c9-1b29-4438-8a06-c90fb61db729" alt="Menu" width="400">
+  <img src="https://github.com/user-attachments/assets/617ac3c9-1b29-4438-8a06-c90fb61db729" alt="Menu" width="600">
 
 ### Create Teaching Record
 - Allows users to add new teaching records.
 
-  <img src="https://github.com/user-attachments/assets/a1f72054-7908-4746-822f-4ff08a7f5a75" alt="Create Teaching Record" width="400">
+  <img src="https://github.com/user-attachments/assets/a1f72054-7908-4746-822f-4ff08a7f5a75" alt="Create Teaching Record" width="600">
 
 ### View Teaching Records
 - Displays a list of all teaching-related records.
 
-  <img src="https://github.com/user-attachments/assets/e624ddb2-ff75-438d-8534-9cf82dfdb099" alt="View Teaching Records" width="400">
+  <img src="https://github.com/user-attachments/assets/e624ddb2-ff75-438d-8534-9cf82dfdb099" alt="View Teaching Records" width="600">
 
 ### Update Teaching Record
 - Enables users to modify existing teaching records.
 
-  <img src="https://github.com/user-attachments/assets/020e49f8-2737-4bc3-9f23-8618f99749e1" alt="Update Teaching Record" width="400">
+  <img src="https://github.com/user-attachments/assets/020e49f8-2737-4bc3-9f23-8618f99749e1" alt="Update Teaching Record" width="600">
 
 ### Delete Teaching Record
 - Allows users to remove a teaching record from the system.
 
-  <img src="https://github.com/user-attachments/assets/bec2ed5e-7302-4a19-b27b-816bcb82ed7a" alt="Delete Teaching Record" width="400">
+  <img src="https://github.com/user-attachments/assets/bec2ed5e-7302-4a19-b27b-816bcb82ed7a" alt="Delete Teaching Record" width="600">
 
 ## Setup
 1. **Clone the Repository**: Download or clone the project to your local machine.
