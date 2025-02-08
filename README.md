@@ -1,6 +1,6 @@
 # School Management System OOP
 
-![Project Status](https://img.shields.io/badge/status-completed-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
+![Project Status](https://img.shields.io/badge/status-completed-brightgreen) [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
 This project implements CRUD operations using Object-Oriented Programming (OOP) in PHP for managing school operations, specifically focusing on teaching-related tasks.
 
